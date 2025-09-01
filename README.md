@@ -1,6 +1,6 @@
 # John Doe
 📍 City, State | 📞 (123) 456-7890 | 📧 john.doe@email.com | 🌐 linkedin.com/in/johndoe
-
+![photo](assets/photo.png)
 ---
 
 ## Professional Summary
