@@ -1,6 +1,6 @@
 # Lazaro
 
-![alt text]([image.jpg](https://picsum.photos/200/300))
+![photo](assets/photo.png)
 
 📍 City, State | 📞 (123) 456-7890 | 📧 john.doe@email.com | 🌐 linkedin.com/in/johndoe
 
