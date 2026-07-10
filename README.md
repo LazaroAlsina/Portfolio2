@@ -1,4 +1,4 @@
-# John Doe
+# Lazaro
 📍 City, State | 📞 (123) 456-7890 | 📧 john.doe@email.com | 🌐 linkedin.com/in/johndoe
 
 ---
@@ -22,7 +22,7 @@ Results-driven professional with strong experience in [your field/industry]. Ski
 
 **Job Title**  
 *Company Name – City, State*  
-MM/YYYY – Present  
+12/25/2021 – Present  
 - Lead [responsibility/project] resulting in [measurable outcome].  
 - Collaborated with cross-functional teams to [achievement].  
 - Improved [process/system] by implementing [solution].  
